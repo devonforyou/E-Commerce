@@ -1,2 +1,1 @@
-# E-Commerce
-Challenge to implement backend technologies for an application.
+# E-commerce Back End Starter Code
